@@ -1,4 +1,4 @@
-d3ward.github.io##.adbox.banner_ads.adsbox
-d3ward.github.io##.textads
+||d3ward.github.io##.adbox.banner_ads.adsbox
+||d3ward.github.io##.textads
 /pagead.js$domain=d3ward.github.io
 /widget/ads.
