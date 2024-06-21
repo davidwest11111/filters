@@ -1,4 +1,1 @@
-d3ward.github.io##.adbox.banner_ads.adsbox
-d3ward.github.io##.textads
-/pagead.js$domain=d3ward.github.io
-/widget/ads.
+||accounts.google.com/gsi/client$script,third-party
