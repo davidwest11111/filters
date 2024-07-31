@@ -1,3 +1,4 @@
+||accounts.google.com/gsi/*$xhr,script,3p
 ||accounts.google.com/gsi/client$script,third-party
 
 ###AdsByCurseBanner
