@@ -1,5 +1,6 @@
 ||accounts.google.com/gsi/*$xhr,script,3p
 ||accounts.google.com/gsi/client$script,third-party
+||accounts.google.com/gsi/iframe
 
 ###AdsByCurseBanner
 ###NotificationUpgradeWin81and7NonSupport
